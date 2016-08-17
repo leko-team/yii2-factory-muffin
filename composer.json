@@ -1,5 +1,5 @@
 {
-  "name": "saada/yii2-factory-muffin",
+  "name": "leko-team/yii2-factory-muffin",
   "description": "A Yii2 wrapper for league/factory-muffin with Gii generators.",
   "keywords": ["testing", "factory", "yii2"],
   "homepage": "http://moody.website/yii2-factory-muffin/",
@@ -13,7 +13,7 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=5.5.0",
-    "league/factory-muffin": "dev-master"
+    "league/factory-muffin": "^3.0"
   },
   "autoload": {
     "psr-4": {
